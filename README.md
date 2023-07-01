@@ -15,6 +15,17 @@
 </h1>
 
 <a href="#"><img src="coding/c.png" height="35" width="35"/></a>
+<a href="#"><img src="coding/c%2B%2B.png" height="35" width="35"/></a>
+<a href="#"><img src="coding/css.png" height="35" width="35"/></a>
+<a href="#"><img src="coding/django.png" height="35" width="35"/></a>
+<a href="#"><img src="coding/html.png" height="35" width="35"/></a>
+<a href="#"><img src="coding/java.png" height="35" width="35"/></a>
+<a href="#"><img src="coding/kokkos.png" height="35" width="35"/></a>
+<a href="#"><img src="coding/matlab.png" height="35" width="35"/></a>
+<a href="#"><img src="coding/mpi.png" height="35" width="35"/></a>
+<a href="#"><img src="coding/openmp.jpg" height="35" width="35"/></a>
+<a href="#"><img src="coding/python.png" height="35" width="35"/></a>
+
 
 <p align="center">
   <a href="https://skillicons.dev">
