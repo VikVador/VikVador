@@ -15,7 +15,7 @@
 </h1>
 
 <p align="center">
-    <a href="#"><img src="coding/c.png" height="35" width="35"/></a>
+    <a href="#"><img src="coding/c.png" hspace="10" height="35" width="35"/></a>
     <a href="#"><img src="coding/c%2B%2B.png" height="35" width="35"/></a>
     <a href="#"><img src="coding/css.png" height="35" width="35"/></a>
     <a href="#"><img src="coding/django.png" height="35" width="35"/></a>
