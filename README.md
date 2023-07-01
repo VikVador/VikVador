@@ -1,4 +1,4 @@
-<p style="font-size:35px" align="left">
+<p style="font-size:50px;" align="left">
     Hi <img src="gifs/hi.gif" alt="Saying Hi !" height="45" width="45" /> ! I'm Victor
 </p>
 
