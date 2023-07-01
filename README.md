@@ -10,7 +10,15 @@
 - 💬 Favorite quote:
 > For what's money without happiness ? Or hard times without the people you love ? - J. Cole
 
+<h1 align="left">
+    Coding Skills
+</h1>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 
 
