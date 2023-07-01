@@ -28,7 +28,7 @@
     <a href="#"><img src="coding/mpi.png"       hspace="16" height="45" width="45"/></a>
 </p>
 
-> <a href="https://www.flaticon.com/free-icons/python" style="font-size:2" title="Icons">Icons created by Freepik - Flaticon</a>
+> <a href="https://www.flaticon.com/free-icons/python" style="no" title="Icons">Flaticon</a>
 
 <h1 align="left">
     Software Skills
