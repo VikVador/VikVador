@@ -1,10 +1,5 @@
-<h3 align="center">
-    Hi
-    <img src="gifs/hi.gif"
-         alt="Saying Hi !"
-         height="45"
-         width="45" />
-    I'm Victor !
+<h3 align="left">
+    Hi <img src="gifs/hi.gif" alt="Saying Hi !" height="45" width="45" /> ! I'm Victor
 </h3>
 
 
