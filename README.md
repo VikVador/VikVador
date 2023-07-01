@@ -1,5 +1,5 @@
 <h1 align="left">
-    Hi <img src="gifs/hi.gif" alt="Saying Hi !" height="45" width="45" />, I'm Victor !
+    Hi <img src="gifs/hi.gif" alt="Saying Hi !" height="35" width="35" />, I'm Victor !
 </h1>
 
 
