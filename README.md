@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![VikVador's GitHub stats](https://github-readme-stats.vercel.app/api?username=VikVador)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
+[![VikVador's GitHub stats](https://github-readme-stats.vercel.app/api?username=VikVador)](https://github.com/anuraghazra/github-readme-stats&theme=dark&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VikVador&layout=compact&langs_count=10&theme=dark)
 
 <!--
