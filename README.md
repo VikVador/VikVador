@@ -8,7 +8,7 @@
 - 🌿 Thrives on tackling new problems and projects, especially through collaboration
 - 🗣 Fluent in French and English, with some good knowledge of German
 - 💬 Favorite quote:
-
+> For what's money without happiness? Or hard times without the people you love? 
 
 
 
