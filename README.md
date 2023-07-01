@@ -3,6 +3,15 @@
     Hi <img src="gifs/hi.gif" alt="Saying Hi !" height="35" width="35" />, &nbsp; I'm Victor !
 </h1>
 
+- Engineering student with a passion for physics and informatics, seeking to explore their intersection
+- Curious, social, dynamic, open-minded, and organized individual
+- Enjoys helping and teaching others in mathematics and sciences, aspiring to become a university professor
+- Thrives on tackling new problems and projects, especially through collaboration
+- Natural leader who motivates and inspires others
+- Proficient in multiple programming languages
+- Fluent in French and English, with some knowledge of German
+
+
 
 
 
