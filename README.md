@@ -1,4 +1,14 @@
-### Hi there 👋
+<h3 align="center">
+    Hi
+    <img src="gifs/hi.gif"
+         alt="Saying Hi !"
+         height="45"
+         width="45" />
+    I'm Victor !
+</h3>
+
+
+
 
 [![VikVador's GitHub stats](https://github-readme-stats.vercel.app/api?username=VikVador&show_icons=true&include_all_commits=true&rank_icon=github&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VikVador&layout=compact&langs_count=20&hide_progress=true&theme=dark)
