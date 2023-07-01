@@ -14,9 +14,11 @@
     Coding Skills
 </h1>
 
+<a href="#"><img src="coding/c.png" height="35" width="35"/></a>
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+
   </a>
 </p>
 
