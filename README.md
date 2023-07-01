@@ -20,6 +20,8 @@
   </a>
 </p>
 
+<a href="https://www.flaticon.com/free-icons/python" title="python icons">Python icons created by Freepik - Flaticon</a>
+
 <h1 align="left">
     Software Skills
 </h1>
