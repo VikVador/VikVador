@@ -15,7 +15,7 @@
 </h1>
 
 <p align="center">
-    <a href="#"><img src="coding/java.png"      hspace="16" height="45" width="45"/></a>
+    <a href="#"><img src="coding/java.png"      hspace="16" vspace="3" height="45" width="45"/></a>
     <a href="#"><img src="coding/matlab.png"    hspace="16" height="45" width="45"/></a>
     <a href="#"><img src="coding/python.png"    hspace="16" height="45" width="45"/></a>
     <a href="#"><img src="coding/django.png"    hspace="16" height="45" width="45"/></a>
