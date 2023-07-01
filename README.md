@@ -28,13 +28,7 @@
     <a href="#"><img src="coding/mpi.png"       hspace="16" height="45" width="45"/></a>
 </p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-
-  </a>
-</p>
-
-<a href="https://www.flaticon.com/free-icons/python" title="python icons">Python icons created by Freepik - Flaticon</a>
+> <a href="https://www.flaticon.com/free-icons/python" title="python icons">Python icons created by Freepik - Flaticon</a>
 
 <h1 align="left">
     Software Skills
