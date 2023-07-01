@@ -15,17 +15,17 @@
 </h1>
 
 <p align="center">
-    <a href="#"><img src="coding/java.png"      hspace="13" height="35" width="35"/></a>
-    <a href="#"><img src="coding/matlab.png"    hspace="13" height="35" width="35"/></a>
-    <a href="#"><img src="coding/python.png"    hspace="13" height="35" width="35"/></a>
-    <a href="#"><img src="coding/django.png"    hspace="13" height="35" width="35"/></a>
-    <a href="#"><img src="coding/html.png"      hspace="13" height="35" width="35"/></a>
-    <a href="#"><img src="coding/css.png"       hspace="13" height="35" width="35"/></a>
-    <a href="#"><img src="coding/c.png"         hspace="13" height="35" width="35"/></a>
-    <a href="#"><img src="coding/c%2B%2B.png"   hspace="13" height="35" width="35"/></a>
-    <a href="#"><img src="coding/kokkos.png"    hspace="13" height="35" width="35"/></a>
-    <a href="#"><img src="coding/openmp.jpg"    hspace="13" height="35" width="35"/></a>
-    <a href="#"><img src="coding/mpi.png"       hspace="13" height="35" width="35"/></a>
+    <a href="#"><img src="coding/java.png"      hspace="13" height="45" width="35"/></a>
+    <a href="#"><img src="coding/matlab.png"    hspace="13" height="45" width="35"/></a>
+    <a href="#"><img src="coding/python.png"    hspace="13" height="45" width="35"/></a>
+    <a href="#"><img src="coding/django.png"    hspace="13" height="45" width="35"/></a>
+    <a href="#"><img src="coding/html.png"      hspace="13" height="45" width="35"/></a>
+    <a href="#"><img src="coding/css.png"       hspace="13" height="45" width="35"/></a>
+    <a href="#"><img src="coding/c.png"         hspace="13" height="45" width="35"/></a>
+    <a href="#"><img src="coding/c%2B%2B.png"   hspace="13" height="45" width="35"/></a>
+    <a href="#"><img src="coding/kokkos.png"    hspace="13" height="45" width="35"/></a>
+    <a href="#"><img src="coding/openmp.jpg"    hspace="13" height="45" width="35"/></a>
+    <a href="#"><img src="coding/mpi.png"       hspace="13" height="45" width="35"/></a>
 </p>
 
 <p align="center">
