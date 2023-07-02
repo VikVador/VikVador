@@ -32,11 +32,27 @@
 > <a href="https://www.flaticon.com/free-icons/python" style="no" target="_blank" title="Icons">Flaticon</a>
 
 <h1 align="left">
-    Software Skills
+    Software & Usefull Skills
 </h1>
+
+<p align="center">
+    <a href=" " target="_blank" title=" "   ><img src="software/docker.png" hspace="13" height="40" width="40"/></a>
+    <a href=" " target="_blank" title=" "   ><img src="software/excel.png" hspace="13" height="40" width="40"/></a>
+    <a href=" " target="_blank" title=" "   ><img src="software/gmsh.png" hspace="13" height="40" width="40"/></a>
+    <a href=" " target="_blank" title=" "   ><img src="software/mathematica.png" hspace="13" height="40" width="40"/></a>
+    <a href=" " target="_blank" title=" "   ><img src="software/metafor.jpg" hspace="13" height="40" width="40"/></a>
+    <a href=" " target="_blank" title=" "   ><img src="software/notion.png" hspace="13" height="40" width="40"/></a>
+    <a href=" " target="_blank" title=" "   ><img src="software/nxsiemens.png" hspace="13" height="40" width="40"/></a>
+    <a href=" " target="_blank" title=" "   ><img src="software/openfoam.png" hspace="13" height="40" width="40"/></a>
+    <a href=" " target="_blank" title=" "   ><img src="software/powerpoint.png" hspace="13" height="40" width="40"/></a>
+    <a href=" " target="_blank" title=" "   ><img src="software/slack.png" hspace="13" height="40" width="40"/></a>
+    <a href=" " target="_blank" title=" "   ><img src="software/tex.png" hspace="13" height="40" width="40"/></a>
+    <a href=" " target="_blank" title=" "   ><img src="software/word.png" hspace="13" height="40" width="40"/></a>
+</p>
 
 <h1 align="left">
     Stats
 </h1>
+
 [![VikVador's GitHub stats](https://github-readme-stats.vercel.app/api?username=VikVador&show_icons=true&include_all_commits=true&rank_icon=github&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VikVador&layout=compact&langs_count=20&hide_progress=true&theme=dark)
