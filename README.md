@@ -40,8 +40,8 @@
     <a href=" " target="_blank" title=" "   ><img src="software/excel.png" hspace="13" height="40" width="40"/></a>
     <a href=" " target="_blank" title=" "   ><img src="software/gmsh.png" hspace="13" height="40" width="40"/></a>
     <a href=" " target="_blank" title=" "   ><img src="software/mathematica.png" hspace="13" height="40" width="40"/></a>
-    <a href=" " target="_blank" title=" "   ><img src="software/metafor.jpg" hspace="13" height="40" width="40"/></a>
-    <a href=" " target="_blank" title=" "   ><img src="software/notion.png" hspace="13" height="40" width="40"/></a>
+    <a href=" " target="_blank" title=" "   ><img src="software/metafor.jpg" hspace="13" height="40" width="40" style="border-radius:50%"/></a>
+    <a href=" " target="_blank" title=" "   ><img src="software/notion.png" hspace="13" height="40" width="40" style="border-radius:50%"/></a>
     <a href=" " target="_blank" title=" "   ><img src="software/nxsiemens.png" hspace="13" height="40" width="40"/></a>
     <a href=" " target="_blank" title=" "   ><img src="software/openfoam.png" hspace="13" height="40" width="40"/></a>
     <a href=" " target="_blank" title=" "   ><img src="software/powerpoint.png" hspace="13" height="40" width="40"/></a>
