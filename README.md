@@ -36,7 +36,7 @@
 </h1>
 
 <p align="center">
-    <a href=" " target="_blank" title="Excel"         ><img src="software/excel.png"       hspace="11" height="45" width="45"/></a>
+    <a href=" " target="_blank" title="Excel"         ><img src="software/excel.png"       hspace="11" height="40" width="45"/></a>
     <a href=" " target="_blank" title="Word"          ><img src="software/word.png"        hspace="11" height="40" width="45"/></a>
     <a href=" " target="_blank" title="Powerpoint"    ><img src="software/powerpoint.png"  hspace="13" height="40" width="40"/></a>
     <a href=" " target="_blank" title="Docker"        ><img src="software/docker.png"      hspace="13" height="40" width="40"/></a>
