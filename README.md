@@ -32,7 +32,7 @@
 > <a href="https://www.flaticon.com/free-icons/python" style="no" target="_blank" title="Icons">Flaticon</a>
 
 <h1 align="left">
-    Software & Usefull Skills
+    Engineering Software & Usefull Skills
 </h1>
 
 <p align="center">
