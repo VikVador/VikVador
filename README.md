@@ -56,5 +56,5 @@
 
 <table><tr>
     <td width="30%" align="center"><a href="#/"><img src="https://github-readme-stats.vercel.app/api?username=VikVador&show_icons=true&include_all_commits=true&rank_icon=github&theme=dark&hide_title=true"/></a></td>
-    <td width="20%" align="center"><a href="#/"><img src="others/feynman.jpg" height="200"></a></td>
+    <td width="20%" align="center"><a href="#/"><img src="others/feynman.jpg" title="I learned very early the difference between knowing the name of something and knowing something."></a></td>
 </tr></table>
