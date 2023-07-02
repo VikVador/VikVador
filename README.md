@@ -1,4 +1,4 @@
-<img src="gifs/banner.gif" alt="A beautiful galaxy" width="100%" />
+<img src="gifs/banner.gif" title="Woouuuuusshhhhhhhh" width="100%" />
 <h1 align="left">
     Hi <img src="gifs/hi.gif" alt="Saying Hi !" height="35" width="35" />, &nbsp; I'm Victor !
 </h1>
