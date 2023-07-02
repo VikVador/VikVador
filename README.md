@@ -54,5 +54,16 @@
     Stats
 </h1>
 
-[![VikVador's GitHub stats](https://github-readme-stats.vercel.app/api?username=VikVador&show_icons=true&include_all_commits=true&rank_icon=github&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<table border="0">
+ <tr>
+    <img src="https://github-readme-stats.vercel.app/api?username=VikVador&show_icons=true&include_all_commits=true&rank_icon=github&theme=dark"      hspace="13" height="40" width="40"/>
+ </tr>
+ <tr>
+    <td>Lorem ipsum ...</td>
+    <td>Lorem ipsum ...</td>
+ </tr>
+</table>
+
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VikVador&layout=compact&langs_count=20&hide_progress=true&theme=dark)
