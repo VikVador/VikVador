@@ -37,7 +37,7 @@
 
 <p align="center">
     <a href=" " target="_blank" title=" "   ><img src="software/docker.png" hspace="13" height="40" width="40"/></a>
-    <a href=" " target="_blank" title=" "   ><img src="software/excel.png" hspace="13" height="40" width="50"/></a>
+    <a href=" " target="_blank" title=" "   ><img src="software/excel.png" hspace="13" height="40" width="40"/></a>
     <a href=" " target="_blank" title=" "   ><img src="software/gmsh.png" hspace="13" height="40" width="40"/></a>
     <a href=" " target="_blank" title=" "   ><img src="software/mathematica.png" hspace="13" height="40" width="40"/></a>
     <a href=" " target="_blank" title=" "   ><img src="software/metafor.jpg" hspace="13" height="40" width="40" style="border-radius:50%"/></a>
@@ -47,7 +47,7 @@
     <a href=" " target="_blank" title=" "   ><img src="software/powerpoint.png" hspace="13" height="40" width="40"/></a>
     <a href=" " target="_blank" title=" "   ><img src="software/slack.png" hspace="13" height="40" width="40"/></a>
     <a href=" " target="_blank" title=" "   ><img src="software/tex.png" hspace="13" height="40" width="40"/></a>
-    <a href=" " target="_blank" title=" "   ><img src="software/word.png" hspace="13" height="40" width="50"/></a>
+    <a href=" " target="_blank" title=" "   ><img src="software/word.png" hspace="13" height="40" width="40"/></a>
 </p>
 
 <h1 align="left">
