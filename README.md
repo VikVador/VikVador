@@ -55,6 +55,6 @@
 </h1>
 
 <table border="0">
-    <tr><img src="https://github-readme-stats.vercel.app/api?username=VikVador&show_icons=true&include_all_commits=true&rank_icon=github&theme=dark"/></tr>
+    <tr><img src="https://github-readme-stats.vercel.app/api?username=VikVador&show_icons=true&include_all_commits=true&rank_icon=github&theme=dark" height="200" /></tr>
     <tr><img src="others/feynman.jpg" height="200"/></tr>
 </table>
