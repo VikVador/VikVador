@@ -15,21 +15,21 @@
 </h1>
 
 <p align="center">
-    <a href="https://www.java.com/fr/"                       title="Java"   ><img src="coding/java.png"      hspace="14" height="42" width="42"/></a>
-    <a href="https://www.mathworks.com/products/matlab.html" title="Matlab" ><img src="coding/matlab.png"    hspace="14" height="42" width="42"/></a>
-    <a href="https://www.python.org"                         title="Python" ><img src="coding/python.png"    hspace="14" height="42" width="42"/></a>
-    <a href="https://pytorch.org"                            title="Pytorch"><img src="coding/pytorch.png"   hspace="14" height="42" width="42"/></a>
-    <a href="https://www.djangoproject.com"                  title="Django" ><img src="coding/django.png"    hspace="14" height="42" width="42"/></a>
-    <a href="https://www.w3schools.com/html/"                title="HTML"   ><img src="coding/html.png"      hspace="14" height="42" width="42"/></a>
-    <a href="https://www.w3schools.com/css/"                 title="CSS"    ><img src="coding/css.png"       hspace="14" height="42" width="42"/></a>
-    <a href="https://www.w3schools.com/c/c_intro.php"        title="C"      ><img src="coding/c.png"         hspace="14" height="42" width="42"/></a>
-    <a href="https://www.w3schools.com/cpp/"                 title="C++"    ><img src="coding/c%2B%2B.png"   hspace="14" height="42" width="42"/></a>
-    <a href="https://github.com/kokkos/kokkos-tutorials"     title="Kokkos" ><img src="coding/kokkos.png"    hspace="14" height="42" width="42"/></a>
-    <a href="https://www.openmp.org"                         title="OpenMP" ><img src="coding/openmp.jpg"    hspace="14" height="42" width="42"/></a>
-    <a href="https://www.open-mpi.org"                       title="MPI"    ><img src="coding/mpi.png"       hspace="14" height="42" width="42"/></a>
+    <a href="https://www.java.com/fr/"                       target="_blank" title="Java"   ><img src="coding/java.png"      hspace="13" height="40" width="40"/></a>
+    <a href="https://www.mathworks.com/products/matlab.html" target="_blank" title="Matlab" ><img src="coding/matlab.png"    hspace="13" height="40" width="40"/></a>
+    <a href="https://www.python.org"                         target="_blank" title="Python" ><img src="coding/python.png"    hspace="13" height="40" width="40"/></a>
+    <a href="https://pytorch.org"                            target="_blank" title="Pytorch"><img src="coding/pytorch.png"   hspace="13" height="40" width="40"/></a>
+    <a href="https://www.djangoproject.com"                  target="_blank" title="Django" ><img src="coding/django.png"    hspace="13" height="40" width="40"/></a>
+    <a href="https://www.w3schools.com/html/"                target="_blank" title="HTML"   ><img src="coding/html.png"      hspace="13" height="40" width="40"/></a>
+    <a href="https://www.w3schools.com/css/"                 target="_blank" title="CSS"    ><img src="coding/css.png"       hspace="13" height="40" width="40"/></a>
+    <a href="https://www.w3schools.com/c/c_intro.php"        target="_blank" title="C"      ><img src="coding/c.png"         hspace="13" height="40" width="40"/></a>
+    <a href="https://www.w3schools.com/cpp/"                 target="_blank" title="C++"    ><img src="coding/c%2B%2B.png"   hspace="13" height="40" width="40"/></a>
+    <a href="https://github.com/kokkos/kokkos-tutorials"     target="_blank" title="Kokkos" ><img src="coding/kokkos.png"    hspace="13" height="40" width="40"/></a>
+    <a href="https://www.openmp.org"                         target="_blank" title="OpenMP" ><img src="coding/openmp.jpg"    hspace="13" height="40" width="40"/></a>
+    <a href="https://www.open-mpi.org"                       target="_blank" title="MPI"    ><img src="coding/mpi.png"       hspace="13" height="40" width="40"/></a>
 </p>
 
-> <a href="https://www.flaticon.com/free-icons/python" style="no" title="Icons">Flaticon</a>
+> <a href="https://www.flaticon.com/free-icons/python" style="no" target="_blank" title="Icons">Flaticon</a>
 
 <h1 align="left">
     Software Skills
