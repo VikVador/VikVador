@@ -54,7 +54,9 @@
     Stats
 </h1>
 
+
+![alt-text-1](image1.png "title-1") ![alt-text-2](image2.png "title-2")
+
 <table border="0">
-    <tr><img src="https://github-readme-stats.vercel.app/api?username=VikVador&show_icons=true&include_all_commits=true&rank_icon=github&theme=dark" height="50" /></tr>
-    <tr><img src="others/feynman.jpg" height="50"/></tr>
+    <tr><img src="https://github-readme-stats.vercel.app/api?username=VikVador&show_icons=true&include_all_commits=true&rank_icon=github&theme=dark" height="50" /><img src="others/feynman.jpg" height="50"/></tr>
 </table>
