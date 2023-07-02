@@ -15,17 +15,18 @@
 </h1>
 
 <p align="center">
-    <a href="#"><img src="coding/java.png"      hspace="14" vspace="30" height="45" width="45"/></a>
-    <a href="#"><img src="coding/matlab.png"    hspace="14" vspace="30" height="45" width="45"/></a>
-    <a href="#"><img src="coding/python.png"    hspace="14" vspace="30" height="45" width="45"/></a>
-    <a href="#"><img src="coding/django.png"    hspace="14" vspace="30" height="45" width="45"/></a>
-    <a href="#"><img src="coding/html.png"      hspace="14" vspace="30" height="45" width="45"/></a>
-    <a href="#"><img src="coding/css.png"       hspace="14" vspace="30" height="45" width="45"/></a>
-    <a href="#"><img src="coding/c.png"         hspace="14" vspace="30" height="45" width="45"/></a>
-    <a href="#"><img src="coding/c%2B%2B.png"   hspace="14" vspace="30" height="45" width="45"/></a>
-    <a href="#"><img src="coding/kokkos.png"    hspace="14" vspace="30" height="45" width="45"/></a>
-    <a href="#"><img src="coding/openmp.jpg"    hspace="14" vspace="30" height="45" width="45"/></a>
-    <a href="#"><img src="coding/mpi.png"       hspace="14" vspace="30" height="45" width="45"/></a>
+    <a href="https://www.java.com/fr/"                       title="Java"   ><img src="coding/java.png"      hspace="14" height="42" width="42"/></a>
+    <a href="https://www.mathworks.com/products/matlab.html" title="Matlab" ><img src="coding/matlab.png"    hspace="14" height="42" width="42"/></a>
+    <a href="https://www.python.org"                         title="Python" ><img src="coding/python.png"    hspace="14" height="42" width="42"/></a>
+    <a href="https://pytorch.org"                            title="Pytorch"><img src="coding/pytorch.png"   hspace="14" height="42" width="42"/></a>
+    <a href="https://www.djangoproject.com"                  title="Django" ><img src="coding/django.png"    hspace="14" height="42" width="42"/></a>
+    <a href="https://www.w3schools.com/html/"                title="HTML"   ><img src="coding/html.png"      hspace="14" height="42" width="42"/></a>
+    <a href="https://www.w3schools.com/css/"                 title="CSS"    ><img src="coding/css.png"       hspace="14" height="42" width="42"/></a>
+    <a href="https://www.w3schools.com/c/c_intro.php"        title="C"      ><img src="coding/c.png"         hspace="14" height="42" width="42"/></a>
+    <a href="https://www.w3schools.com/cpp/"                 title="C++"    ><img src="coding/c%2B%2B.png"   hspace="14" height="42" width="42"/></a>
+    <a href="https://github.com/kokkos/kokkos-tutorials"     title="Kokkos" ><img src="coding/kokkos.png"    hspace="14" height="42" width="42"/></a>
+    <a href="https://www.openmp.org"                         title="OpenMP" ><img src="coding/openmp.jpg"    hspace="14" height="42" width="42"/></a>
+    <a href="https://www.open-mpi.org"                       title="MPI"    ><img src="coding/mpi.png"       hspace="14" height="42" width="42"/></a>
 </p>
 
 > <a href="https://www.flaticon.com/free-icons/python" style="no" title="Icons">Flaticon</a>
