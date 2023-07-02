@@ -54,7 +54,9 @@
     Stats
 </h1>
 
-<div style="display: flex; height: 200px;">
-  <img src="others/feynman.jpg" alt="Image">
-  <img src="https://github-readme-stats.vercel.app/api?username=VikVador&show_icons=true&include_all_commits=true&rank_icon=github&theme=dark"/>
+<div style="display: flex;">
+  <img src="others/feynman.jpg" alt="Image" style="height: 200px;">
+  <div>
+    <img style="height: 200px;" src="https://github-readme-stats.vercel.app/api?username=VikVador&show_icons=true&include_all_commits=true&rank_icon=github&theme=dark"/>
+  </div>
 </div>
