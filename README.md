@@ -3,7 +3,7 @@
     Hi <img src="gifs/hi.gif" alt="Saying Hi !" height="35" width="35" />, &nbsp; I'm Victor !
 </h1>
 
-- 🎓 Physics Engineer PhD student with a passion for physics and informatics, seeking to explore their crossroads !
+- 🎓 PhD student in Engineering Physics with a passion for AI and applied physics, seeking to explore their crossroads !
 - 👨🏼‍⚕️ Curious, social, dynamic, open-minded, and organized individual
 - 🌿 Thrives on tackling new problems and projects, especially through collaboration
 - 🗣 Fluent in French and English, with some good knowledge of German
